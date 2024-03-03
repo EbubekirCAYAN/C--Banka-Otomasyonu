@@ -1,0 +1,65 @@
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\bin\Debug\btı2022proje.exe.config
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\bin\Debug\btı2022proje.exe
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\bin\Debug\btı2022proje.pdb
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.BankaRapor.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Form1.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.hesapozet.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kulkayıt.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kullanici.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kurhesap.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.musteri.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.musteripanel.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.paracek.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Properties.Resources.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.sifreunut.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Musyenikayit.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.İslemTur.resources
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.GenerateResource.cache
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.exe
+C:\Users\W10\source\repos\btı2022proje\btı2022proje\obj\Debug\btı2022proje.pdb
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\bin\Debug\btı2022proje.exe.config
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\bin\Debug\btı2022proje.exe
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\bin\Debug\btı2022proje.pdb
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.BankaRapor.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Form1.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.hesapozet.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kulkayıt.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kullanici.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kurhesap.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.musteri.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.musteripanel.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.paracek.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Properties.Resources.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.sifreunut.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Musyenikayit.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.İslemTur.resources
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.exe
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.pdb
+C:\Users\W10\Desktop\PTD-Yanlış-İmha\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Form2.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.BankaRapor.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Form1.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Form2.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.hesapozet.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kulkayıt.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kullanici.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.kurhesap.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.musteri.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.musteripanel.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.paracek.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.sifreunut.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Musyenikayit.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.İslemTur.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.exe
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.pdb
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\bin\Debug\btı2022proje.exe.config
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\bin\Debug\btı2022proje.exe
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\bin\Debug\btı2022proje.pdb
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\btı2022proje.Properties.Resources.resources
+C:\Users\W10\Desktop\Masaüstü\Söğüt-MYO\projebelgeleri\PTD-EbubekirCAYAN\projetasarım\BankaOtomasyonu\uygulama dosyası\btı2022proje\btı2022proje\obj\Debug\bankauyg2022proje.csproj.CoreCompileInputs.cache

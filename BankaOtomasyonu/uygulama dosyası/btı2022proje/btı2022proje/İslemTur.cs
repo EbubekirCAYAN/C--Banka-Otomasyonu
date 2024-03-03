@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace btı2022proje
+{
+    public partial class İslemTur : Form
+    {
+        
+        public İslemTur()
+        {
+            InitializeComponent();
+        }
+          
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void İslemTur_Load(object sender, EventArgs e)
+        {
+           
+        }
+    }
+}
